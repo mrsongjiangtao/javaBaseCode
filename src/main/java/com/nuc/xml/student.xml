@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student stuno="1001">
+     <name>JONES</name>
+	 <age>20</age>
+	 <address>北京</address>
+  </student>
+  <student stuno="1002">
+     <name>SMITH</name>
+	 <age>21</age>
+	 <address>天津</address>
+  </student>
+</students>
